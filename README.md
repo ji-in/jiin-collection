@@ -18,7 +18,7 @@
 
 ### 2. 얼굴만 크롭하기
 
-[Codes with dlib]()
+[Codes with dlib](https://github.com/ji-in/jiin-collection/blob/main/crop.py)
 
 dlib 과 openCV 를 사용했다. conda 나 pip 사용해서 dlib과 opencv 설치하면 된다. 모르면 구글링~
 
