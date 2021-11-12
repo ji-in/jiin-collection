@@ -20,7 +20,7 @@
 
 [Codes with dlib]()
 
-dlib 과 openCV 를 사용했다.
+dlib 과 openCV 를 사용했다. conda 나 pip 사용해서 dlib과 opencv 설치하면 된다. 모르면 구글링~
 
 OpenCV 의 Haar Cascades 를 사용하여 얼굴을 크롭할 수도 있다. (haar cascades를 사용하는 코드는 시간 날 때 올리겠음!) 어떤게 결과가 더 좋은지는 비교는 안해봤다. dlib 사용해도 충분히 잘 크롭된다.
 
